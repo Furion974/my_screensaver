@@ -1,0 +1,9 @@
+animation rendering in a CSFML window.
+
+USAGE
+    ./my_screensaver [OPTIONS] animation_id
+    animation_id     ID of the aniamtion to process (between 1 and 2).
+
+OPTIONS
+    -d      printf the description of all the aniamations and quit.
+    -h      printf the usage and quit.
