@@ -1,5 +1,5 @@
 # my_screensaver
-create a screensaver in CSFML
+Create a screensaver in CSFML
 
 Use make, for the compilation.
 
