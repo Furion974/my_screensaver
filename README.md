@@ -1,10 +1,8 @@
 # my_screensaver
-Create a screensaver in CSFML
+Create a screensaver with the [CSFML](https://github.com/SFML/CSFML) library.
 
-Use make, for the compilation.
+Compilation : Use `make` in the repository.
 
-./my_screensaver -h, to display the usage.
+Exectuting the program : `./my_screensaver [OPTION] [animation_id]`
 
-./my_screensaver 1, for my first screensaver.
-
-./my_screensaver 2, for my second screensaver.
+Use the `-h` option to see the usage of the program and all of option and animation_id available in the project.
